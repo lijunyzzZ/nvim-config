@@ -1,0 +1,6 @@
+require('plugins')
+require('options')
+require('keymaps')
+require('config.lua-line')
+require('config.treesitter')
+require('colorscheme')
